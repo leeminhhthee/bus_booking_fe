@@ -132,12 +132,9 @@ When you want to forcefully reload, for example to reset the state of your app, 
 
 ## 📸 Screenshots
 
-|----------------|------------------|------------|------------|
-| ![](demo/1.PNG) | ![](demo/2.PNG) | ![](demo/3.PNG) | ![](demo/4.PNG) |
-|----------------|------------------|------------|------------|
-| ![](demo/5.PNG) | ![](demo/6.PNG) | ![](demo/7.PNG) | ![](demo/8.PNG) |
-|----------------|------------------|------------|
-| ![](demo/9.PNG) | ![](demo/10.PNG) | ![](demo/11.PNG) | 
+| ![](demo/1.png) | ![](demo/2.png) | ![](demo/3.png) | ![](demo/4.png) |
+| ![](demo/5.png) | ![](demo/6.png) | ![](demo/7.png) | ![](demo/8.png) |
+| ![](demo/9.png) | ![](demo/10.png) | ![](demo/11.png) | 
 
 ---
 
