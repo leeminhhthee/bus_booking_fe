@@ -142,7 +142,7 @@ When you want to forcefully reload, for example to reset the state of your app, 
 
 ## 👨‍💻 Author
 
-- **Leeminhhthee**  
+- **Le Minh The**  
   [GitHub Profile](https://github.com/leeminhhthee)
 
 ---
