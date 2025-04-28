@@ -43,6 +43,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 > **Note 1**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+
 > **Note 2**: Please follow the instructions in the [bus_booking_be README](https://github.com/leeminhhthee/bus_booking_be#readme) to set up the backend server.
 
 ## Step 1: Frontend Setup
